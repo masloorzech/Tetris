@@ -23,13 +23,13 @@ Language: Java
 GUI Library: Swing
 IDE: Any Java-supported IDE (e.g., IntelliJ IDEA, Eclipse, NetBeans)
 ## Features
-Randomly generated Tetris blocks
-Keyboard controls (left/right/down/rotate)
-Automatic block falling
-Collision detection
-Line clearing
-Score tracking
-Simple graphical interface
+- Randomly generated Tetris blocks
+- Keyboard controls (left/right/down/rotate)
+- Automatic block falling
+- Collision detection
+- Line clearing
+- Score tracking
+- Simple graphical interface
 ## Installation & Execution
 Clone the repository:
 ```sh
