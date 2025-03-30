@@ -11,6 +11,12 @@ This project is an implementation of the classic Tetris game in Java, using the 
     <img src="https://github.com/user-attachments/assets/fd9d5520-95d1-4304-ba26-a518fc5f51cd" width="200">
 </p>
 
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/f5aea179-df5f-4797-8799-2bd07f9216b9" width="400">
+    <img src="https://github.com/user-attachments/assets/e2f62775-45e9-4b2b-be2a-e52c2851b9ff" width="400">
+</p>
+
+
 
 ##Technologies
 Language: Java
