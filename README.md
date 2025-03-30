@@ -3,6 +3,14 @@
 This project is an implementation of the classic Tetris game in Java, using the Swing library as the graphical engine. The game runs in a desktop application window and supports core Tetris mechanics such as falling blocks, collision detection, and line clearing.
 
 ## Screenshots:
+
+<p align="center">
+    <img src="https://github.com/user-attachments/assets/e3ed31f6-5098-4025-9505-58bdf37a9f7e" width="200">
+    <img src="https://github.com/user-attachments/assets/fe3e067b-39db-43b6-aa16-edff30b589d5" width="200">
+    <img src="https://github.com/user-attachments/assets/23130f41-df66-4b41-a01a-b2f39636882b" width="200">
+    <img src="https://github.com/user-attachments/assets/6527fa06-7227-48a0-9b8c-f083fd6fefb9" width="200">
+</p>
+
 ![Zrzut ekranu 2025-03-30 145426](https://github.com/user-attachments/assets/e3ed31f6-5098-4025-9505-58bdf37a9f7e)
 ![Zrzut ekranu 2025-03-30 145707](https://github.com/user-attachments/assets/fe3e067b-39db-43b6-aa16-edff30b589d5)
 ![Zrzut ekranu 2025-03-30 145411](https://github.com/user-attachments/assets/23130f41-df66-4b41-a01a-b2f39636882b)
