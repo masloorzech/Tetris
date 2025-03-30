@@ -18,11 +18,11 @@ This project is an implementation of the classic Tetris game in Java, using the 
 
 
 
-##Technologies
+## Technologies
 Language: Java
 GUI Library: Swing
 IDE: Any Java-supported IDE (e.g., IntelliJ IDEA, Eclipse, NetBeans)
-##Features
+## Features
 Randomly generated Tetris blocks
 Keyboard controls (left/right/down/rotate)
 Automatic block falling
